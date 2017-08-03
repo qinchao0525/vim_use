@@ -5,3 +5,4 @@
 ## 目录
 1.[介绍](https://github.com/qinchao0525/vim_use/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0_vim%E4%BB%8B%E7%BB%8D/introduction.md)<br>
 2.[vim模式](https://github.com/qinchao0525/vim_use/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0_vim%E6%A8%A1%E5%BC%8F/mode.md)<br>
+3.[vim概观](https://github.com/qinchao0525/vim_use/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0_vim%E6%A6%82%E8%A7%82/Vim%E6%A6%82%E8%A7%82.md)
