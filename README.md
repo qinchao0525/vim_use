@@ -1,5 +1,5 @@
 # vim_use
-这是我个人关于英文vim使用的译文，仅供参考学习<br>
+这是我个人关于英文vim使用的译文，仅供参考学习，可直接点击目录查看<br>
 文章写了vim的基本使用到高级使用的各种方法，适合初学者阅读<br>
 英文原文链接为：https://anuragpeshne.github.io/essays/vim/1.html<br>
 ## 目录
