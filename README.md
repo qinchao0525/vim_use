@@ -26,4 +26,5 @@
 6.[.vimrc文件](https://github.com/qinchao0525/vim_use/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0_.vimrc/.vimrc.md)<br>
 * 颜色显示
 * 插件
+* .vimrc例子
 
