@@ -31,3 +31,4 @@
 7.[映射文件](https://github.com/qinchao0525/vim_use/blob/master/%E7%AC%AC%E4%B8%83%E7%AB%A0_%E5%AE%9A%E5%88%B6%E5%8C%96%E6%98%A0%E5%B0%84%E9%94%AEmap/map.md)
 * 映射
 * 递归映射
+* leader键
