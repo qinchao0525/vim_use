@@ -33,7 +33,8 @@
 
 ### VimL
 VimL或者Vim脚本，是一种完整特征化的图灵语言。它支持函数，条件语句，异常处理等。VimL被用来定制Vim，同时也可以拓展Vim<br>
-功能。想要深入了解，可以参考[学习Vim脚本](http://learnvimscriptthehardway.stevelosh.com/)
+功能。想要深入了解，可以参考[学习Vim脚本](http://learnvimscriptthehardway.stevelosh.com/)。找到一个已经翻译成<br>
+中文的，点击[这里](http://learnvimscriptthehardway.onefloweroneworld.com/)
 
 * 替换模式
 按`R`键可以进入替换模式，在该模式下可以通过输入字符来替换原来的字符，这一特性在编辑注册文件是会非常有用。
