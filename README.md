@@ -3,7 +3,7 @@
 文章写了vim的基本使用到高级使用的各种方法，适合初学者阅读<br>
 英文原文链接为：https://anuragpeshne.github.io/essays/vim/<br>
 同时找到一个Vim脚本的学习链接，读者可以参考：<br>
-(Vim脚本学习链接)[http://learnvimscriptthehardway.onefloweroneworld.com/]
+Vim脚本学习链接：http://learnvimscriptthehardway.onefloweroneworld.com/
 ## 目录
 1.[介绍](https://github.com/qinchao0525/vim_use/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0_vim%E4%BB%8B%E7%BB%8D/introduction.md)<br>
 * 简介
